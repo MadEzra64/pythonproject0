@@ -21,7 +21,7 @@ print(y)
 print(f"I said: {x}")
 print(f"I also said: '{y}'")
 
-# Declaring the variable named hilarious is a False operation
+# Declaring the variable named hilarious is a False boolean value
 hilarious = False
 # Declaring joke_evaluation is equal to a string of text with an empty variable.
 joke_evaluation = "Isn't that joke so funny?! {}"
