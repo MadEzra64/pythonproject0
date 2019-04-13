@@ -14,3 +14,8 @@ state = input('STATE: ')
 
 print("Thank you for your input. We are now going to manipulate this data in a couple weird ways to practice in python.")
 print("For starters, here is all the current data.")
+print(f"""
+Your name is: {name}
+You are {age} years old.
+You live in the state of {state}
+""")
